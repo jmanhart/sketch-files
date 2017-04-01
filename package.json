@@ -1,7 +1,7 @@
 {
-  "name": "Snips",
+  "name": "sketch-files",
   "version": "0.0.1",
-  "description": "Manhart Snips!",
+  "description": "sketch-files",
   "scripts": {
     "start": "webpack-dev-server -d --inline --host 0.0.0.0 --history-api-fallback --progress"
   },
