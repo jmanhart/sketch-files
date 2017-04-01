@@ -9,19 +9,6 @@ import './styles.css';
 const ACTIVE = { background: 'rgba(0,0,0,0.2)'}
 
 export default class Messenger extends Component{
-    constructor() {
-        super()
-    }
-
-    componentDidMount(){
-        this.animateHead()
-    }
-
-    animateHead(){
-        let el = ReactDOM.findDOMNode(this.refs.head)
-        navOnMount(el)
-    }
-
     render(){
         return(
             <div className="navigation-container">
