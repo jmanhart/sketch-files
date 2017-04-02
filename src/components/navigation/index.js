@@ -12,7 +12,6 @@ export default class Messenger extends Component{
     render(){
         return(
             <div className="navigation-container">
-
                 <div className="internal-links">
                     <span className="navigation-label">
                         <Link activeClassName="is-active" to="/sketch">
@@ -24,28 +23,11 @@ export default class Messenger extends Component{
                             About 
                         </Link>
                     </span>
-
                 </div>
-
             </div>
         )
     }
 }
-
-{/*<span className="navigation-label">
-    <Link activeClassName="is-active" to="/cards">
-    cards
-    </Link>
-    </span>*/}
-
-    {/*<div className="external-links">
-        <span className="navigation-github">
-        <a href="https://github.com/jmanhart/interactions">
-        to github!
-        </a>
-        </span>
-        </div>*/}
-
 
 export const styles = Object.create({
 

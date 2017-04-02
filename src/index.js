@@ -8,9 +8,6 @@ import Home from './containers/home';
 import Sketch from './containers/sketch';
 import About from './containers/about';
 
-// Need to add the /interactions/ to have it ready for production
-// This will not be an issue cause still deving dingus
-
 const routes = (
   <Route path="/" mapMenuTitle="Home" component={App}>
     <IndexRoute component={Home}/>

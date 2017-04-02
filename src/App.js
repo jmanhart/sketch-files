@@ -4,7 +4,6 @@ import dynamics from 'dynamics.js';
 import ReactDOM from 'react-dom';
 import Interactive from 'react-interactive';
 import { Link } from 'react-router';
-import s from './styles/app.style';
 import './styles/styles.css';
 
 import Home from './containers/home'
