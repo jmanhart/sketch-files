@@ -12,7 +12,7 @@ export default class Sketch extends Component{
                         <div className="left">
                             <h2>Text Editor</h2>
                             <h3>Concept for a desktop text editing application for iOS.</h3>
-                            <a href="https://jmanhart.github.io/sketch-files/text-editor-01.sketch">
+                            <a href="https://jmanhart.github.io/sketch-files/sketch/text-editor-01.sketch">
                             {/*<a href="./../../sketch/text-editor-01.sketch">*/}
                                 <button>
                                     Download the Sketch File
