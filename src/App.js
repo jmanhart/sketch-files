@@ -28,6 +28,7 @@ export default class App extends Component{
                     <span className="footer-sign-off">Say Hi! 
                         <span className="footer-email">manhartjohn@gmail.com</span>
                     </span>
+                    
                 </div>
             </div>
         )

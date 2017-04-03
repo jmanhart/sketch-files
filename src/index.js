@@ -9,10 +9,10 @@ import Sketch from './containers/sketch';
 import About from './containers/about';
 
 const routes = (
-  <Route path="/" mapMenuTitle="Home" component={App}>
+  <Route path="/sketch-files" mapMenuTitle="Home" component={App}>
     <IndexRoute component={Home}/>
-    <Route path="/sketch" mapMenuTitle="Example" component={Sketch} />
-    <Route path="/about" mapMenuTitle="Example" component={About} />
+    <Route path="/sketch-files/sketch" mapMenuTitle="Example" component={Sketch} />
+    <Route path="/sketch-files/about" mapMenuTitle="Example" component={About} />
   </Route>
 );
 

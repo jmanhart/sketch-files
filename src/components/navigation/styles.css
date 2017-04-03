@@ -80,11 +80,7 @@
     transition: all 0.2s ease-in;
 }
 
-i:hover{
-    color: rgba(0, 0, 0, 0.5);
-    transition: all 0.2s ease-in;
 
-}
 
 #spin:hover{
     animation: none;

@@ -14,12 +14,12 @@ export default class Messenger extends Component{
             <div className="navigation-container">
                 <div className="internal-links">
                     <span className="navigation-label">
-                        <Link activeClassName="is-active" to="/sketch">
+                        <Link activeClassName="is-active" to="/sketch-files/sketch">
                            Sketch Files
                         </Link>
                     </span>
                     <span className="navigation-label">
-                        <Link activeClassName="is-active" to="/about">
+                        <Link activeClassName="is-active" to="/sketch-files/about">
                             About 
                         </Link>
                     </span>

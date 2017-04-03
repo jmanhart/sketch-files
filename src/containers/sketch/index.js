@@ -7,7 +7,23 @@ export default class Sketch extends Component{
     render(){
         return(
             <div>
-                <h1>Sketch Page</h1>
+                <div className="block-container" style={{backgroundColor:'rgba(0,0,0,0)'}}>
+                    <div className="block-content">
+                        <div className="left">
+                            <h2>Text Editor</h2>
+                            <h3>Concept for a desktop text editing application for iOS.</h3>
+                            <a href="./../../sketch/text-editor-01.sketch">
+                                <button>
+                                    Download the Sketch File
+                                    <i className="fa fa-diamond fa-2x"></i>
+                                </button>
+                            </a>
+                        </div>
+                        <div className="right">
+                            <img className="right-image" src="../../src/public/images/dribbble-dude.png" download/>
+                        </div>
+                    </div>
+                </div>
             </div>
         )
     }
