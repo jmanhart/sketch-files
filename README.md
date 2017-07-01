@@ -1,8 +1,5 @@
-# As Seen on Dribbble
+## As Seen on Dribbble
 
-[Live Site](https://jmanhart.github.io/sketch-files/sketch) 
+A place for .sketch files for [Dribbble projects](https://dribbble.com/manhart/projects/498023-Desktop-Text-Editor). Download if you like!
 
-
-
-
-
+[jmanhart.github.io/sketch-files/sketch](https://jmanhart.github.io/sketch-files/sketch) 
